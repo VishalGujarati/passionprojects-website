@@ -1,0 +1,62 @@
+{
+  "brand": "Passion Projects",
+  "tagline": "Independent software and digital services",
+  "description": "Passion Projects builds practical software, conversion tools and digital services designed to solve specific real-world problems.",
+  "contactEmail": "support.passionprojects@gmail.com",
+  "paymentUrl": "https://u.payu.in/srWL9ANC66kC",
+  "products": [
+    {
+      "id": "gujarati-legacy-font-converter",
+      "name": "Gujarati Legacy Font Converter",
+      "version": "1.3.1",
+      "category": "Desktop software",
+      "status": "Available",
+      "summary": "Convert supported Hari, Harikrishna and Arun legacy Gujarati text into Unicode Gujarati.",
+      "description": "A practical desktop utility for converting supported legacy Gujarati font text into Unicode Gujarati for modern documents, search, sharing and digital publishing.",
+      "platforms": [
+        "Windows",
+        "Ubuntu"
+      ],
+      "features": [
+        "Hari, Harikrishna and Arun mappings",
+        "Text and file workflows",
+        "Folder conversion",
+        "Offline processing for normal desktop use"
+      ],
+      "releaseDate": "2026-08-31",
+      "downloads": {
+        "windows": "#",
+        "ubuntu": "#"
+      }
+    }
+  ],
+  "services": [
+    {
+      "name": "MS Excel Automation",
+      "description": "VBA macros, formulas, dashboards, reports and repetitive-work automation in Microsoft Excel."
+    },
+    {
+      "name": "Google Sheets Automation",
+      "description": "Google Apps Script, custom workflows, reports, data processing and spreadsheet automation."
+    },
+    {
+      "name": "Gujarati font conversion",
+      "description": "Conversion and mapping assistance for legacy Gujarati font-based documents and text."
+    },
+    {
+      "name": "Document conversion",
+      "description": "Practical conversion and cleanup workflows for supported document formats."
+    },
+    {
+      "name": "Small custom utilities",
+      "description": "Focused scripts or desktop tools built around a clearly defined task."
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-08-31",
+      "title": "Gujarati Legacy Font Converter v1.3.1",
+      "text": "Latest public release for Windows and Ubuntu."
+    }
+  ]
+}
